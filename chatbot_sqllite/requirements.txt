@@ -1,0 +1,10 @@
+langgraph==1.1.10
+langchain==1.2.15
+langchain-google-genai==4.2.2
+google-generativeai==0.8.6
+google-genai==1.73.1
+pydantic==2.13.3
+python-dotenv==1.2.2
+ipykernel==7.2.0
+Streamlit==1.57.0
+langgraph-checkpointer-sqlite==3.0.3
